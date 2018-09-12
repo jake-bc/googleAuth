@@ -77,7 +77,7 @@ return (
 <br/><br/>
 
 <GoogleLogin
-clientId="Your Google ID"
+clientId="55824431547-kcpqbbg9sa3tta535nlp1lhu34v3arqg.apps.googleusercontent.com"
 buttonText="Login with Google"
 onSuccess={responseGoogle}
 onFailure={responseGoogle}/>
